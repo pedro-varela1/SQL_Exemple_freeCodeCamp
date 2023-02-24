@@ -1,5 +1,5 @@
 # SQL_Exemple_freeCodeCamp
-##Explanation of the SQL Database example covered by the "Python for Everybody" course
+## Explanation of the SQL Database example covered by the "Python for Everybody" course
 
 In this example, it was learned how to create tables (databases), as shown below in the first part of the code:
 ```sql
